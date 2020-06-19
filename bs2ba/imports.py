@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Roman Trapeznikov
+
 def optimize_imports(s):
     return s
 

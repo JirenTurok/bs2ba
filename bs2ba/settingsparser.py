@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Roman Trapeznikov
+
 import json
 
 SETTINGS_BEGIN = '['

@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Roman Trapeznikov
+
 def find_and_parse(s: str):
     while f'def bs_get_api_version' in s:
         lines = s.splitlines()

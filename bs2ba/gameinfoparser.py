@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Roman Trapeznikov
+
 def find_and_parse(s: str):
     for infotype in ('name', 'description'):
         while f'def get_{infotype}' in s:

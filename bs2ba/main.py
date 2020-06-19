@@ -1,3 +1,4 @@
+# Copyright (c) 2020 Roman Trapeznikov
 import re
 from bs2ba import settingsparser, gameinfoparser, metaparser
 from bs2ba.subs import patterns

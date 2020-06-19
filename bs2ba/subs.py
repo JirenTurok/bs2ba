@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Roman Trapeznikov
+
 import re
 
 _underscorer1 = re.compile(r'(.)([A-Z][a-z]+)')
