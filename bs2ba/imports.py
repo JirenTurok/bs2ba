@@ -23,6 +23,6 @@ imports = genimports((
     ('bastd.actor.spaz', ('Spaz',)),
     ('bastd.actor.scoreboard', ('Scoreboard',)),
     ('bastd.actor.playerspaz', ('PlayerSpaz',)),
-    ('bastd.actor.powerupbox', ('PowerupBox')),
+    ('bastd.actor.powerupbox', ('PowerupBox',)),
     ('bastd.gameutils', ('SharedObjects',))
 ))
